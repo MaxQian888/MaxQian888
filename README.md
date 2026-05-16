@@ -179,12 +179,12 @@ I take features from product definition through technical design to shipping —
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaxQian888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-orpin-mu.vercel.app/api?username=MaxQian888&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=MaxQian888&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxQian888&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=10" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats-orpin-mu.vercel.app/api/top-langs/?username=MaxQian888&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
 
 <br/><br/>
 
